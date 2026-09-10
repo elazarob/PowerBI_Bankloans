@@ -267,3 +267,32 @@ Borrower characteristics associated with loan activity
 Changes in interest rates and DTI over time
 
 Note: Specific numerical insights should be added after validating the final dashboard values and filters.
+
+📌 Project Highlights
+
+This project demonstrates practical skills in:
+
+Data cleaning
+Data transformation
+Data modeling
+SQL analysis
+DAX
+KPI development
+Business intelligence
+Data visualization
+Interactive dashboard design
+Financial data analysis
+Business insight generation
+
+🎓 What I Learned
+
+Through this project, I strengthened my ability to:
+
+Transform raw data into an analytical dataset
+Build interactive Power BI dashboards
+Create meaningful KPIs using DAX
+Analyze financial and loan-related data
+Design dashboards for business users
+Use different visualization techniques to communicate insights
+Analyze trends using MoM and MTD calculations
+Translate business questions into data-driven analysis
