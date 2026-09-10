@@ -12,14 +12,23 @@ The project transforms raw loan data into an interactive dashboard that allows u
 The main goal of this project is to provide a clear overview of the bank's loan portfolio and answer important business questions such as:
 
 How many loan applications were submitted?
+
 How much money was funded?
+
 How much money was received from borrowers?
+
 What is the average interest rate?
+
 What is the average debt-to-income ratio (DTI)?
+
 What percentage of loans are considered good or bad?
+
 Which states generate the highest number of loan applications?
+
 Which loan purposes are most common?
+
 How does loan performance vary by loan grade?
+
 How do borrower characteristics affect loan activity?
 
 📊 Key Performance Indicators (KPIs)
