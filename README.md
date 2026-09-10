@@ -236,11 +236,11 @@ This makes it possible to monitor changes in applications, funding, repayments, 
 
 📷 Dashboard Preview
 
-summary.png
-overview.png
-details.png
+Summary.png
+Overview.png
+Details.png
 
-![Summary Dashboard](summary.png)
+![Summary Dashboard](Summary.png)
 
 💡 Business Insights
 
