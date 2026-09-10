@@ -241,6 +241,8 @@ Overview.png
 Details.png
 
 ![Summary Dashboard](Summary.png)
+![Summary Dashboard](Overview.png)
+![Summary Dashboard](Details.png)
 
 💡 Business Insights
 
