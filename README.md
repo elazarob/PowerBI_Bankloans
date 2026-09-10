@@ -236,14 +236,11 @@ This makes it possible to monitor changes in applications, funding, repayments, 
 
 📷 Dashboard Preview
 
-Add screenshots of your Power BI dashboard here.
+summary.png
+overview.png
+details.png
 
-For example:
-
-images/
-
-
-Then display them in the README:
+![Summary Dashboard](summary.png)
 
 💡 Business Insights
 
