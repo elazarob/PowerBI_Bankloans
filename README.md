@@ -63,12 +63,19 @@ Good Loan Receivable                   Amount	Amount received from good loans
 Bad Loan Receivable                     Amount	Amount received from bad loans
 
 🛠️ Tools & Technologies
+
 Data Analysis & Visualization
+
 Microsoft Power BI
+
 DAX
+
 Power Query
+
 SQL
+
 Excel / CSV
+
 Power BI Features Used
 KPI Cards
 Slicers
