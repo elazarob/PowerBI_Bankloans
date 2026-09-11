@@ -76,20 +76,20 @@ SQL
 
 Excel / CSV
 
-Power BI Features Used
-KPI Cards
-Slicers
-Donut Charts
-Bar Charts
-Area Charts
-Treemaps
-Shape Maps
-Tables
-Page Navigation
-Interactive filtering
-DAX measures
-Month-over-Month (MoM) analysis
-Month-to-Date (MTD) analysis
+-Power BI Features Used
+-KPI Cards
+-Slicers
+-Donut Charts
+-Bar Charts
+-Area Charts
+-Treemaps
+-Shape Maps
+-Tables
+-Page Navigation
+-Interactive filtering
+-DAX measures
+-Month-over-Month (MoM) analysis
+-Month-to-Date (MTD) analysis
 
 📑 Dashboard Pages
 
@@ -101,23 +101,35 @@ The Summary page provides a high-level overview of the loan portfolio.
 
 It focuses on the main KPIs and compares:
 
-Loan applications
-Funded amounts
-Amount received
-Interest rates
-Debt-to-income ratio
-Good vs. bad loans
+-Loan applications
+
+-Funded amounts
+
+-Amount received
+
+-Interest rates
+
+-Debt-to-income ratio
+
+-Good vs. bad loans
 
 The page also includes MoM (Month-over-Month) and MTD (Month-to-Date) metrics to monitor changes in performance over time.
 
 Main metrics
-Total Loan Applications
-Total Funded Amount
-Total Amount Received
-Average Interest Rate
-Average DTI
-Good Loan %
-Bad Loan %
+
+-Total Loan Applications
+
+-Total Funded Amount
+
+-Total Amount Received
+
+-Average Interest Rate
+
+-Average DTI
+
+-Good Loan %
+
+-Bad Loan %
 
 2. Overview
 
