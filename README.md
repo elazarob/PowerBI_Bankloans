@@ -11,44 +11,35 @@ The project transforms raw loan data into an interactive dashboard that allows u
 
 The main goal of this project is to provide a clear overview of the bank's loan portfolio and answer important business questions such as:
 
-How many loan applications were submitted?
-
-How much money was funded?
-
-How much money was received from borrowers?
-
-What is the average interest rate?
-
-What is the average debt-to-income ratio (DTI)?
-
-What percentage of loans are considered good or bad?
-
-Which states generate the highest number of loan applications?
-
-Which loan purposes are most common?
-
-How does loan performance vary by loan grade?
-
-How do borrower characteristics affect loan activity?
+-How many loan applications were submitted?
+-How much money was funded?
+-How much money was received from borrowers?
+-What is the average interest rate?
+-What is the average debt-to-income ratio (DTI)?
+-What percentage of loans are considered good or bad?
+-Which states generate the highest number of loan applications?
+-Which loan purposes are most common?
+-How does loan performance vary by loan grade?
+-How do borrower characteristics affect loan activity?
 
 📊 Key Performance Indicators (KPIs)
 
 The dashboard focuses on several key metrics:
 
-KPI	Description
-Total Loan Applications	Total number of loan applications
-Total Funded Amount	Total amount funded by the bank
-Total Amount Received	Total amount received from borrowers
-Average Interest Rate	Average interest rate across loans
-Average DTI	Average debt-to-income ratio
-Good Loan %	Percentage of loans classified as good
-Bad Loan %	Percentage of loans classified as bad
-Good Loan Applications	Number of applications classified as good
-Bad Loan Applications	Number of applications classified as bad
-Good Loan Funded Amount	Amount funded for good loans
-Bad Loan Funded Amount	Amount funded for bad loans
-Good Loan Receivable Amount	Amount received from good loans
-Bad Loan Receivable Amount	Amount received from bad loans
+KPI	                                     Description
+Total Loan Applications	                 Total number of loan applications
+Total Funded Amount	                     Total amount funded by the bank
+Total Amount Received                    Total amount received from borrowers
+Average Interest Rate	                   Average interest rate across loans
+Average DTI	                             Average debt-to-income ratio
+Good Loan %	                             Percentage of loans classified as good
+Bad Loan %	                              Percentage of loans classified as bad
+Good Loan Applications	                Number of applications classified as good
+Bad Loan Applications                  	Number of applications classified as bad
+Good Loan Funded                         Amount	Amount funded for good loans
+Bad Loan Funded                         Amount	Amount funded for bad loans
+Good Loan Receivable                   Amount	Amount received from good loans
+Bad Loan Receivable                     Amount	Amount received from bad loans
 
 🛠️ Tools & Technologies
 Data Analysis & Visualization
