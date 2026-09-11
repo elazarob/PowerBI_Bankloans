@@ -76,19 +76,32 @@ SQL
 
 Excel / CSV
 
--Power BI Features Used
+Power BI Features Used
+
 -KPI Cards
+
 -Slicers
+
 -Donut Charts
+
 -Bar Charts
+
 -Area Charts
+
 -Treemaps
+
 -Shape Maps
+
 -Tables
+
 -Page Navigation
+
 -Interactive filtering
+
 -DAX measures
+
 -Month-over-Month (MoM) analysis
+
 -Month-to-Date (MTD) analysis
 
 📑 Dashboard Pages
@@ -137,14 +150,21 @@ The Overview page provides a more detailed analysis of loan activity.
 
 The dashboard allows users to explore loan performance by different dimensions, including:
 
-State
-Loan term
-Employment length
-Loan purpose
-Home ownership
-Loan grade
-Loan status
-Month
+-State
+
+-Loan term
+
+-Employment length
+
+-Loan purpose
+
+-Home ownership
+
+-Loan grade
+
+-Loan status
+
+-Month
 
 Interactive filters allow users to dynamically change the analysis and investigate specific segments of the loan portfolio.
 
@@ -154,17 +174,17 @@ The Details page provides a more granular view of individual loan records.
 
 The analysis includes fields such as:
 
-Loan ID
-Loan purpose
-Home ownership
-Grade
-Sub-grade
-Issue date
-Funded amount
-Interest rate
-Installment
-Amount received
-Loan status
+*Loan ID
+*Loan purpose
+*Home ownership
+*Grade
+*Sub-grade
+*Issue date
+*Funded amount
+*Interest rate
+*Installment
+*Amount received
+*Loan status
 
 This page can be used to drill down from high-level KPIs into individual loan-level information.
 
@@ -178,12 +198,17 @@ The raw bank loan dataset was prepared and transformed before being used for ana
 
 Typical preparation steps included:
 
-Data cleaning
-Data type validation
-Handling missing values
-Formatting dates
-Creating analytical fields
-Preparing data for Power BI
+*Data cleaning
+
+*Data type validation
+
+*Handling missing values
+
+*Formatting dates
+
+*Creating analytical fields
+
+*Preparing data for Power BI
 
 2. Data Modeling
 
