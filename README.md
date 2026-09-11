@@ -175,15 +175,25 @@ The Details page provides a more granular view of individual loan records.
 The analysis includes fields such as:
 
 *Loan ID
+
 *Loan purpose
+
 *Home ownership
+
 *Grade
+
 *Sub-grade
+
 *Issue date
+
 *Funded amount
+
 *Interest rate
+
 *Installment
+
 *Amount received
+
 *Loan status
 
 This page can be used to drill down from high-level KPIs into individual loan-level information.
@@ -220,15 +230,23 @@ The main dataset used in the Power BI model is:
 
 The model contains information related to:
 
-Loan applications
-Loan amounts
-Interest rates
-Borrower characteristics
-Loan grades
-Loan purposes
-Loan status
-Dates
-Geographic information
+*Loan applications
+
+*Loan amounts
+
+*Interest rates
+
+*Borrower characteristics
+
+*Loan grades
+
+*Loan purposes
+
+*Loan status
+
+*Dates
+
+*Geographic information
 
 3. DAX Measures
 
@@ -236,15 +254,23 @@ Several DAX measures were created to calculate the main business KPIs.
 
 Examples include measures for:
 
-Total Loan Applications
-Total Funded Amount
-Total Amount Received
-Average Interest Rate
-Average DTI
-Good Loan %
-Bad Loan %
-Month-over-Month changes
-Month-to-Date performance
+*Total Loan Applications
+
+*Total Funded Amount
+
+*Total Amount Received
+
+*Average Interest Rate
+
+*Average DTI
+
+*Good Loan %
+
+*Bad Loan %
+
+*Month-over-Month changes
+
+*Month-to-Date performance
 
 These measures allow the dashboard to update dynamically when users interact with filters and slicers.
 
