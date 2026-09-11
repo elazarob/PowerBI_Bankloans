@@ -204,9 +204,13 @@ The analysis compares Good Loans vs. Bad Loans to understand the overall quality
 Metrics include:
 
 Number of applications
+
 Funded amount
+
 Amount received
+
 Percentage of total loans
+
 Geographic Analysis
 
 Loan applications and performance can be analyzed by state, allowing the identification of geographic patterns in loan activity.
@@ -218,11 +222,17 @@ The dashboard analyzes the most common purposes for which customers apply for lo
 Examples include categories such as:
 
 Debt consolidation
+
 Credit card
+
 Home improvement
+
 Major purchase
+
 Small business
+
 Other purposes
+
 Borrower Characteristics
 
 The analysis also considers borrower characteristics such as:
@@ -241,7 +251,9 @@ The dashboard includes time-based analysis to identify changes in loan activity.
 The report uses:
 
 Monthly analysis
+
 Month-over-Month (MoM)
+
 Month-to-Date (MTD)
 
 This makes it possible to monitor changes in applications, funding, repayments, interest rates, and DTI over time.
@@ -261,12 +273,19 @@ Details.png
 The dashboard is designed to help stakeholders identify:
 
 Trends in loan application volume
+
 Changes in funded and received amounts
+
 Differences between good and bad loans
+
 Geographic patterns in loan demand
+
 Popular loan purposes
+
 Differences across loan grades
+
 Borrower characteristics associated with loan activity
+
 Changes in interest rates and DTI over time
 
 Note: Specific numerical insights should be added after validating the final dashboard values and filters.
@@ -276,15 +295,25 @@ Note: Specific numerical insights should be added after validating the final das
 This project demonstrates practical skills in:
 
 Data cleaning
+
 Data transformation
+
 Data modeling
+
 SQL analysis
+
 DAX
+
 KPI development
+
 Business intelligence
+
 Data visualization
+
 Interactive dashboard design
+
 Financial data analysis
+
 Business insight generation
 
 🎓 What I Learned
