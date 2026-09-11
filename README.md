@@ -172,7 +172,7 @@ The data model was structured to support interactive analysis and DAX calculatio
 
 The main dataset used in the Power BI model is:
 
-financial_loan (1).csv
+[financial_loan.csv](./financial_loan.csv)
 
 The model contains information related to:
 
