@@ -28,17 +28,29 @@ The dashboard focuses on several key metrics:
 
 KPI	                                     Description
 Total Loan Applications	                 Total number of loan applications
+
 Total Funded Amount	                     Total amount funded by the bank
+
 Total Amount Received                    Total amount received from borrowers
+
 Average Interest Rate	                   Average interest rate across loans
+
 Average DTI	                             Average debt-to-income ratio
+
 Good Loan %	                             Percentage of loans classified as good
+
 Bad Loan %	                              Percentage of loans classified as bad
+
 Good Loan Applications	                Number of applications classified as good
+
 Bad Loan Applications                  	Number of applications classified as bad
+
 Good Loan Funded                         Amount	Amount funded for good loans
+
 Bad Loan Funded                         Amount	Amount funded for bad loans
+
 Good Loan Receivable                   Amount	Amount received from good loans
+
 Bad Loan Receivable                     Amount	Amount received from bad loans
 
 🛠️ Tools & Technologies
@@ -280,10 +292,17 @@ Business insight generation
 Through this project, I strengthened my ability to:
 
 Transform raw data into an analytical dataset
+
 Build interactive Power BI dashboards
+
 Create meaningful KPIs using DAX
+
 Analyze financial and loan-related data
+
 Design dashboards for business users
+
 Use different visualization techniques to communicate insights
+
 Analyze trends using MoM and MTD calculations
+
 Translate business questions into data-driven analysis
